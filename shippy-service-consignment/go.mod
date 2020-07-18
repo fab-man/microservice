@@ -1,4 +1,4 @@
-module github.com/fab-man/shippy/shippy-service-consignment
+module github.com/fab-man/microservice/shippy-service-consignment
 
 go 1.14
 
